@@ -1,28 +1,38 @@
 [
   {
-    "icon": "Compass",
-    "name": "导航",
-    "link": "https://gogoing.work/zhihai"
-  },
-  {
-    "icon": "Cloud",
-    "name": "资源",
-    "link": "http://shien.ysepan.com/"
+    "icon": "LaptopCode",
+    "name": "网课目录",
+    "link": "https://www.myjy.club/app/index.php?i=1&c=entry&dir_id=1&do=index&m=pan_plus&uid=76831"
   },
   {
     "icon": "Book",
-    "name": "书籍",
+    "name": "专业书籍",
     "link": "http://zhuanye.book.yanmijy.cn/#/"
   },
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://zhihai.shien.vip/"
+    "icon": "Cloud",
+    "name": "云盘资源",
+    "link": "http://pan.shien.vip/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "网址",
+    "icon": "Compass",
+    "name": "教育导航",
     "link": "https://dh.shien.vip/"
+  },
+  {
+    "icon": "Blog",
+    "name": "知海自学",
+    "link": "https://gogoing.work/zhihai"
+  },
+  {
+    "icon": "Link",
+    "name": "音乐",
+    "link": "https://music.imsyy.top/"
+  },
+  {
+    "icon": "Fire",
+    "name": "站点监测",
+    "link": "https://status.imsyy.top/"
   },
   {
     "icon": "CompactDisc",
