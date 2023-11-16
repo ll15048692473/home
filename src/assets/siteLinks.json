@@ -1,13 +1,28 @@
 [
   {
-    "icon": "Blog",
-    "name": "博客",
-    "link": "https://blog.imsyy.top/"
+    "icon": "Compass",
+    "name": "导航",
+    "link": "https://gogoing.work/zhihai"
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "资源",
+    "link": "http://shien.ysepan.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "书籍",
+    "link": "http://zhuanye.book.yanmijy.cn/#/"
+  },
+  {
+    "icon": "Blog",
+    "name": "博客",
+    "link": "https://zhihai.shien.vip/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "网址",
+    "link": "https://dh.shien.vip/"
   },
   {
     "icon": "CompactDisc",
@@ -15,22 +30,7 @@
     "link": "https://music.imsyy.top/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
-  },
-  {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
-  },
-  {
-    "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://status.imsyy.top/"
   }
