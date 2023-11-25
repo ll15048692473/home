@@ -11,12 +11,12 @@
     "tip": "来封 Email ~",
     "url": "1549892397@QQ.com"
   },
-  <a{
+  {
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
     "url": "https://github.com/imsyy"
-  }</a>,
+  },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
