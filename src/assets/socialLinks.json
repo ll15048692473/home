@@ -11,30 +11,6 @@
     "tip": "来封 Email ~",
     "url": "1549892397@QQ.com"
   }
- '''{
-   ''' "name": "Github",
-    "icon": "/images/icon/github.png",
-    "tip": "去 Github 看看",
-    "url": "https://github.com/ll15048692473/home"'''
-  }''',
- ''' {
-    "name": "BiliBili",
-    "icon": "/images/icon/bilibili.png",
-    "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
-  }''',
-  '''{
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  }''',
-  '''{
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
-  }
-'''
+ 
 ]
 
